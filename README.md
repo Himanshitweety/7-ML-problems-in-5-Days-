@@ -27,7 +27,3 @@ Giving myself 5 days to solve 7 ML problems, end to end, no copy-pasted solution
 ## Stack
 
 Python, pandas, numpy, matplotlib, plotly, scikit-learn, XGBoost/LightGBM, SHAP, Streamlit/Gradio (Day 5 demo) — VS Code + Jupyter notebooks.
-
-## Following along
-
-Posting a recap after every day on X — [your handle here].
